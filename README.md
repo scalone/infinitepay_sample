@@ -1,5 +1,7 @@
 # Funky Application
 
+This is a sample of application using the gem infinite_pay to create a payment application that runs on DaFunk runtime
+
 ## Usage
 
 ### Setup
