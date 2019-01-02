@@ -1,6 +1,6 @@
-# Funky Application
+# InfinitePay Sample
 
-This is a sample of application using the gem infinite_pay to create a payment application that runs on DaFunk runtime
+This is a sample of infinite_pay gem use running on DaFunk runtime. This application is able to start a EMV transaction receiving just the amount of the transaction
 
 ## Usage
 
@@ -32,7 +32,7 @@ Compile all ./lib/**/*.rb files:
 
 Deploying all out files:
 
-    bundle exec rake cloudwalk:build <lib/path/to/file.xml>
+    bundle exec rake cloudwalk:deploy
     
 ### Testing
 
