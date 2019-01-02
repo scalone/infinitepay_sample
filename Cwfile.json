@@ -1,0 +1,10 @@
+{
+  "name":"infinitepay_sample",
+  "runtime": "ruby",
+  "modules":{
+  },
+  "version":"1.0.0",
+  "authorizer_url":"https://myhost.com",
+  "description":"infinitepay_sample",
+  "pos_display_label":"X"
+}
